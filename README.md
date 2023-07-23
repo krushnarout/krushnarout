@@ -1,5 +1,5 @@
 <div>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=6000&size=28&duration=5304&pause=1000&color=000000FF&background=FFD22800&center=true&vCenter=true&width=850&lines=Hello,+I'm+Krushna,+Welcome+to+My+Profile!+;I+am+a+Full+Stack+Developer+;Always+learning+new+things" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=6000&size=28&duration=5304&pause=1000&color36BCF7FF&background=FFD22800&center=true&vCenter=true&width=850&lines=Hello,+I'm+Krushna,+Welcome+to+My+Profile!+;I+am+a+Full+Stack+Developer+;Always+learning+new+things" alt="Typing SVG" /></a>
 <br />
   
 ---
@@ -40,6 +40,24 @@
   <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=krushnarout&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
 <a href="https://github.com/krushnarout/github-stats">
 </p>
+
+---
+
+---
+
+### 🔗 Social info
+
+<div id="badges">
+    <a href="https://www.linkedin.com/in/krushnakantarout/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://twitter.com/Krushna_rout90">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
+    <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=krushnakantarout44@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    </a>
+</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
