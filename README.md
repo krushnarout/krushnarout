@@ -43,8 +43,6 @@
 
 ---
 
----
-
 ### 🔗 Social info
 
 <div id="badges">
