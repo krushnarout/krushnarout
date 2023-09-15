@@ -49,7 +49,7 @@
     <a href="https://www.linkedin.com/in/krushnakantarout/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://twitter.com/Krushna_rout90">
+    <a href="https://twitter.com/Krushnarout_">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
     <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=krushnakantarout44@gmail.com">
