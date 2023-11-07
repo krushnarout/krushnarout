@@ -1,11 +1,6 @@
-[![An image of @krushnarout's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/krushnarout)](https://holopin.io/@krushnarout)
-
-
 <div>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=6000&size=28&duration=5304&pause=1000&color36BCF7FF&background=FFD22800&center=true&vCenter=true&width=850&lines=Hello,+I'm+Krushna,+Welcome+to+My+Profile!+;I+am+a+Full+Stack+Developer+;Always+learning+new+things" alt="Typing SVG" /></a>
 </div>
-
----
 
 <div style="display:flex">
   
@@ -36,11 +31,6 @@
 
 <p align="center">
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=krushnarout&count_private=true&show_icons=true&theme=react" />  <img width="425" src="https://streak-stats.demolab.com/?user=krushnarout&theme=react" />
-</p>
-
-<p align="center">
-  <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=krushnarout&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
-<a href="https://github.com/krushnarout/github-stats">
 </p>
 
 ---
