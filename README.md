@@ -12,8 +12,6 @@
 
 - I post my tech journey on **Twitter**
 
-- I read books in free time
-
 - Open source enthusiast
 
 </div>
