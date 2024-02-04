@@ -8,7 +8,7 @@
 
 - I am currently a B-Tech CSE second year student
 
-- I am currently learning **PostgreSQL** and other full-stack tools.
+- I am currently learning **React** and other full-stack tools.
 
 - I post my tech journey on **Twitter**
 
