@@ -6,7 +6,7 @@
   
 - I am an aspiring Full Stack Developer
 
-- I am currently a B-Tech CSE second year student
+- I am currently a B-Tech CSE third year student
 
 - I am currently learning **React** and other full-stack tools.
 
