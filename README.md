@@ -28,7 +28,8 @@
 <h2>Github stats :bar_chart:</h2>
 
 <p align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=krushnarout&count_private=true&show_icons=true&theme=react" />  <img width="425" src="https://streak-stats.demolab.com/?user=krushnarout&theme=react" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=krushnarout&count_private=true&show_icons=true&theme=react" />
+  <img width="425" src="https://streak-stats.demolab.com/?user=krushnarout&theme=react" />
 </p>
 
 [![An image of @krushnarout's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/krushnarout)](https://holopin.io/@krushnarout)
