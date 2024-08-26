@@ -8,7 +8,7 @@
 
 - I am currently a B-Tech CSE third year student
 
-- I am currently learning **React** and other full-stack tools.
+- I am currently learning **Testing** and other full-stack tools.
 
 - I post my tech journey on **Twitter**
 
