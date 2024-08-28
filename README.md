@@ -10,7 +10,7 @@
 
 - I am currently learning **Testing** and other full-stack tools.
 
-- I post my tech journey on **Twitter**
+- I post my tech journey on [**Twitter**](https://x.com/Krushnarout_)
 
 - Open source enthusiast
 
