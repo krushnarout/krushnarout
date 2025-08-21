@@ -8,7 +8,7 @@
 
 - I am currently a B-Tech CSE third year student
 
-- I am currently learning **TypeScript** and other full-stack tools.
+- I am currently learning **Dart** and other full-stack tools.
 
 - I post my tech journey on [**X (twitter)**](https://x.com/Krushnarout_)
 
