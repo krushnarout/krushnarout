@@ -32,7 +32,6 @@
   <img width="425" src="https://streak-stats.demolab.com/?user=krushnarout&theme=react" />
 </p>
 
-[![An image of @krushnarout's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/krushnarout)](https://holopin.io/@krushnarout)
 ---
 
 ### 🔗 Social info
